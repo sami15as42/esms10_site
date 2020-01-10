@@ -246,6 +246,10 @@ body, html {
 	color: #777;
 }
 
+.logo {
+	height: 200px; width: 270px; margin-top: 20px; margin-left: -75px; margin-right: -75px
+}
+
 /* Create a Parallax Effect */
 .bgimg-1, .bgimg-3 {
   background-attachment: fixed;
